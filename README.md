@@ -75,7 +75,7 @@ InsightVault is a self-hosted event tracking and analytics platform, designed to
 ### Setup
 
 ```bash
-git clone https://github.com/your-username/insightvault.git
+git clone https://github.com/rohan184/Insight-vault.git
 cd insightvault
 cp .env.example .env
 docker-compose up --build
